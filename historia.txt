@@ -1,3 +1,5 @@
 Hola Leonardo, este es un texto de prueba creado desde el comando vim.
 este archivo de texto plano se utilizara de ejemplo para el curso de 
-git y git-hub
+git y git-hub.
+
+El curso lo dicta Freddy Vega
